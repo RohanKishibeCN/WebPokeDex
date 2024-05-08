@@ -20,7 +20,7 @@ These instructions will help you set up the project on your local machine.
 
 1. Clone the repository:
 
-git clone https://github.com/codeitamarjr/WebPokedex
+git clone https://github.com/RohanKishibeCN/WebPokedex
 
 1. Open the project folder in your text editor.
 2. Open the `index.html` file in your web browser.
